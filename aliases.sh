@@ -1,3 +1,6 @@
+# General aliases
+alias env='env | sort'
+
 # Mac wrap/nowrap aliases
 alias wrap='tput rmam'
 alias nowrap='tput smam'
